@@ -1,0 +1,91 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+dist-ssr/
+.cache/
+.temp/
+
+
+# Local development
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output
+dist/
+.serverless/
+.turbo/
+.next/
+out/
+
+# Vite-specific
+*.local
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional npm cache
+.npm
+
+# Optional pnpm cache
+.pnpm-store/
+
+# Optional Jest cache
+.jest/
+
+# Optional Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Optional Playwright
+playwright-report/
+test-results/
+
+# Optional nyc coverage
+.nyc_output/
+coverage/
+
+# Optional serverless
+
+# Optional macOS
+
+# Optional lockfile
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
